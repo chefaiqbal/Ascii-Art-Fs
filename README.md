@@ -1,5 +1,10 @@
 # ASCII Art FS
 
+## Authors
+
+- [tnji](https://learn.reboot01.com/git/tnji)
+- [aiqbal](https://learn.reboot01.com/git/aiqbal)
+
 ## Objectives
 
 ASCII Art FS is a program that generates graphic representations of input strings using ASCII characters. The program takes a string as input and an optional banner type, and it generates the corresponding ASCII art using the specified banner type. If no banner type is provided, it uses the "standard" banner by default.
